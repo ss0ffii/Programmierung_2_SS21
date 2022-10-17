@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BuggyBoy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BuggyBoy_jar</output-path>
+    <root id="archive" name="BuggyBoy.jar">
+      <element id="module-output" name="BuggyBoy" />
+      <element id="dir-copy" path="$PROJECT_DIR$/../resources" />
+    </root>
+  </artifact>
+</component>
